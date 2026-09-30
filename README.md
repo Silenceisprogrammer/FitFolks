@@ -19,7 +19,7 @@
 
 ## Tech Stack
 
-- **React Native** with **Expo** (SDK 51)
+- **React Native** with **Expo** (SDK 57)
 - **TypeScript** — Strict mode
 - **Expo Router** — File-based routing
 - **React Native Paper** — UI components
