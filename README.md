@@ -1,4 +1,4 @@
-# FiFolks 🏃
+# FitFolks 🏃
 
 **Fitness for Everyone** — A culturally relevant, affordable fitness app for students and users in semi-urban and rural India.
 
